@@ -12,7 +12,6 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=c:\\Users\\MELVIN SOJI\\Documents\\VS CODE programs\\ESP_IDF\\helloworld\\build"
-  ],
-  "idf.flashType": "UART"
+    "--compile-commands-dir=c:\\Users\\MELVIN SOJI\\Documents\\VS CODE programs\\ESP_IDF\\uart_rxtx_loopback\\build"
+  ]
 }
